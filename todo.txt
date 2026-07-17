@@ -1,0 +1,6 @@
+1. Turn to webp - https://share.google/aimode/NAkkgbtbQIFkmvH32
+2. Watermark
+3. Add exif
+4. Filters (collection | data for every photo as option)
+
+filtervalue = & will show the photo and make you pick the value for each photo for that filter
